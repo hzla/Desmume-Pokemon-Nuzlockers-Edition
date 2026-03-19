@@ -12,7 +12,6 @@ This is a fork of Desmume that is intended to enhance the Pokemon nuzlocking exp
 - allows automatic syncing of your party/box via websockets
 - an in-emulator pokemon editor that allows for pre-damage/pre-status/exp edging and more 
 
-It is designed to pair with the a **Dynamic Calc** calculator by giving the calc 
 
 ## Basic Setup (DeSmuMe)
 
