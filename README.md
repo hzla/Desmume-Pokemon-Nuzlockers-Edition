@@ -33,13 +33,19 @@ It is designed to pair with the a **Dynamic Calc** calculator by giving the calc
 ### Editors
 
 Under the Tools option in the Desmume menu you will find pokemon editors
+<img width="698" height="454" alt="Screenshot 2026-03-19 at 1 56 50 PM" src="https://github.com/user-attachments/assets/3115f58d-bf84-4c56-88b8-d4a0a85ae9ae" />
+<img width="345" height="194" alt="Screenshot 2026-03-19 at 1 56 43 PM" src="https://github.com/user-attachments/assets/30ea9152-9045-4e4c-8bf1-630d3f18d2eb" />
 
 
 ## Dynamic Calc Pairing 
 
 This script is built to work with **Dynamic Calc** fragsheet tools.
 
-While a supported game is loaded in Desmume click `Sync` below the import box to import your currenty party/box
+While a supported game is loaded in Desmume click `Sync` below the import box to import your currenty party/box.
+<img width="293" height="152" alt="Screenshot 2026-03-19 at 2 08 40 PM" src="https://github.com/user-attachments/assets/22ee8836-10aa-4def-a6a6-ae7252a563aa" />
+
+While on the fragsheet page, click `Sync` to import your current battle history 
+<img width="1287" height="952" alt="Screenshot 2026-03-19 at 2 08 28 PM" src="https://github.com/user-attachments/assets/15aa4652-dc6c-4553-975b-00b994561492" />
 
 
 ### Troubleshooting
