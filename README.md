@@ -1,5 +1,7 @@
 # Desmume For Pokemon
 
+## Download from Releases on the right >>>>
+
 Current Supported Games:
 
 - Pokemon Platinum and Platinum Based Hacks
