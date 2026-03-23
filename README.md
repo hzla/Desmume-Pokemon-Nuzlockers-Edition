@@ -34,8 +34,9 @@ This is a fork of Desmume that is intended to enhance the Pokemon nuzlocking exp
 ### Editors
 
 Under the Tools option in the Desmume menu you will find pokemon editors
-<img width="698" height="454" alt="Screenshot 2026-03-19 at 1 56 50 PM" src="https://github.com/user-attachments/assets/3115f58d-bf84-4c56-88b8-d4a0a85ae9ae" />
-<img width="345" height="194" alt="Screenshot 2026-03-19 at 1 56 43 PM" src="https://github.com/user-attachments/assets/30ea9152-9045-4e4c-8bf1-630d3f18d2eb" />
+<img width="916" height="586" alt="Screenshot 2026-03-23 at 2 51 44 PM" src="https://github.com/user-attachments/assets/038f2a14-0089-4300-9e97-a50e0cfa008c" />
+<img width="436" height="137" alt="Screenshot 2026-03-23 at 2 52 10 PM" src="https://github.com/user-attachments/assets/50d1647e-f652-4d67-88c2-182bdee4ee3d" />
+
 
 
 ## Dynamic Calc Pairing 
