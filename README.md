@@ -2,7 +2,9 @@
 
 Current Supported Games:
 
-- Pokemon Platinum (and platinum rom hacks)
+- Pokemon Platinum and Platinum Based Hacks
+- Pokemon HG/SS and HG/SS Based Hacks
+- Pokemon B/W and B/W based hacks
 
 ## Features
 
@@ -10,23 +12,23 @@ This is a fork of Desmume that is intended to enhance the Pokemon nuzlocking exp
 
 - automatic trainer battle logging and fragsheet tracking
 - allows automatic syncing of your party/box via websockets
-- an in-emulator pokemon editor that allows for pre-damage/pre-status/exp edging and more 
+- an in-emulator pokemon editor that allows for pre-damage/pre-status/exp edging and more
+- in game time selection to easily access time gated events/encounter tables 
 
 
 ## Basic Setup (DeSmuMe)
 
-1. Open Pokemon Platinum in DeSmuMe.
-2. Load the Lua script (`Plat_Qol.lua`) through DeSmuMe's Lua scripting window.
-3. Keep the script running while you play. If you need to restart your game, make sure you also restart the script, or just restart the script which will automatically also restart your game.
+1. Open Rom in DeSmuMe.
+2. All Features should be automatically availalbe under the Tools menubar
 
 
-## Core Behavior (Battle Logging)
-
+## Battle Logging
+- All logs are output to a `dumps` folder in the same folder as whereever you are keeping your Battery/ save files
+- Every time you start a new run with a new Trainer ID, a new `Attempt` folder is created 
 - Trainer battles are logged automatically.
 - Wild battles are skipped for battle log sessions.
 - Logging starts when a trainer battle is detected.
 - Logging stops automatically when the battle ends.
-- All logs are output to a `dumps` folder in the same folder as whereever you are keeping your Battery/ save files
 
 
 ### Editors
