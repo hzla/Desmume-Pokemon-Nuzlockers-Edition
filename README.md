@@ -1,4 +1,4 @@
-# Desmume For Pokemon - Download from Releases on the right >>>>
+# Desmume For Pokemon - Download from Releases >>>>
 
 Current Supported Games:
 
