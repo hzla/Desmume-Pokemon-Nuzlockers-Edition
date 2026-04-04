@@ -53,3 +53,7 @@ While on the fragsheet page, click `Sync` to import your current battle history
 ### Troubleshooting
 
 Report bugs in the [discord](https://discord.gg/HCXJFBANV2)
+
+### Src
+
+https://github.com/hzla/desmume-crossplatform-build
